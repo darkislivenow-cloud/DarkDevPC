@@ -1,8 +1,8 @@
 {
-  "O365-PRO-ITX80BEVUH7G34K1": {
-    "type": "PRO",
-    "months": 24,
-    "used": false,
-    "hwid": null
-  }
+    "O365-PRO-ITX80BEVUH7G34K1":  {
+                                      "type":  "PRO",
+                                      "months":  24,
+                                      "used":  true,
+                                      "hwid":  "FA9B80D4-4E03-5CE5-9817-AE30C8B1F80C"
+                                  }
 }
