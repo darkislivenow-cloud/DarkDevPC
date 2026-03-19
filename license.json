@@ -1,7 +1,8 @@
 {
-  "O365-PRO-6EW5LADS8FYQ2ZRM": {
+  "O365-PRO-ITX80BEVUH7G34K1": {
     "type": "PRO",
     "months": 24,
-    "used": false
+    "used": false,
+    "hwid": null
   }
 }
