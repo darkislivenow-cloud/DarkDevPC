@@ -2,14 +2,14 @@
     "O365-PRO-5PISNEUFQY24HB31":  {
                                       "type":  "PRO",
                                       "months":  600,
-                                      "used":  false,
+                                      "used":  true,
                                       "hwid":  null,
                                       "user":  "o365-Dark-Admin1"
                                   },
     "O365-PRO-UHBVPLDYI6K7QO1A":  {
                                       "type":  "PRO",
                                       "months":  24,
-                                      "used":  false,
+                                      "used":  true,
                                       "hwid":  null,
                                       "user":  "o365-Dark-Admin"
                                   },
